@@ -1,0 +1,655 @@
+fileFormatVersion: 2
+guid: d4d9ecc972e3b3d4298215653a186212
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5802962016128803008
+    second: Tero02_0
+  - first:
+      213: -4439352183337065277
+    second: Tero02_1
+  - first:
+      213: 2398008812589236290
+    second: Tero02_2
+  - first:
+      213: -6148188845325232048
+    second: Tero02_3
+  - first:
+      213: -4325793866663725910
+    second: Tero02_4
+  - first:
+      213: 3549685565848363601
+    second: Tero02_5
+  - first:
+      213: -3699652800684321950
+    second: Tero02_6
+  - first:
+      213: 929532714089855049
+    second: Tero02_7
+  - first:
+      213: 4978919288496881076
+    second: Tero02_8
+  - first:
+      213: 8740340087519570269
+    second: Tero02_9
+  - first:
+      213: 3221424022209519736
+    second: Tero02_10
+  - first:
+      213: -7585799532745263305
+    second: Tero02_11
+  - first:
+      213: -4186774850856240495
+    second: Tero02_12
+  - first:
+      213: -3862029134707123822
+    second: Tero02_13
+  - first:
+      213: -7591964795247821532
+    second: Tero02_14
+  - first:
+      213: -2275281169214379247
+    second: Tero02_15
+  - first:
+      213: -286834746502861894
+    second: Tero02_16
+  - first:
+      213: 2169369108597419429
+    second: Tero02_17
+  - first:
+      213: 4668204178496784153
+    second: Tero02_18
+  - first:
+      213: 4970531307405117953
+    second: Tero02_19
+  - first:
+      213: -4753637962955527879
+    second: Tero02_20
+  - first:
+      213: -7257446750346749460
+    second: Tero02_21
+  - first:
+      213: -1658634656002345170
+    second: Tero02_22
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tero02_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 49
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04fde8faaccb77fa0800000000000000
+      internalID: -5802962016128803008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tero02_1
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 256
+        width: 41
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4e65fb5b04462c0800000000000000
+      internalID: -4439352183337065277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tero02_2
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 258
+        width: 56
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24043a25f40774120800000000000000
+      internalID: 2398008812589236290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tero02_3
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 256
+        width: 53
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 058de56d1de3daaa0800000000000000
+      internalID: -6148188845325232048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tero02_4
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 256
+        width: 51
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4f1f5b561b7f3c0800000000000000
+      internalID: -4325793866663725910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tero02_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 192
+        width: 41
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15229b01734034130800000000000000
+      internalID: 3549685565848363601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tero02_6
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 193
+        width: 58
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2639eee116138acc0800000000000000
+      internalID: -3699652800684321950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tero02_7
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 192
+        width: 53
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9483e6e141d56ec00800000000000000
+      internalID: 929532714089855049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tero02_8
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 192
+        width: 37
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd7234a6bca81540800000000000000
+      internalID: 4978919288496881076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tero02_9
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 192
+        width: 37
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d59e5b4500deb4970800000000000000
+      internalID: 8740340087519570269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tero02_10
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 128
+        width: 37
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87065b2941cc4bc20800000000000000
+      internalID: 3221424022209519736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tero02_11
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 128
+        width: 37
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737f4692483d9b690800000000000000
+      internalID: -7585799532745263305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tero02_12
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 128
+        width: 37
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19abc24a47695e5c0800000000000000
+      internalID: -4186774850856240495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tero02_13
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 128
+        width: 42
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2999291c6f0576ac0800000000000000
+      internalID: -3862029134707123822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tero02_14
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 128
+        width: 47
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d7bff1e3ce3a690800000000000000
+      internalID: -7591964795247821532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tero02_15
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 64
+        width: 47
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b67d0e4d39c60e0800000000000000
+      internalID: -2275281169214379247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tero02_16
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 64
+        width: 38
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb25795155f40cf0800000000000000
+      internalID: -286834746502861894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tero02_17
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 64
+        width: 37
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ada7a0e5b52b1e10800000000000000
+      internalID: 2169369108597419429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tero02_18
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 64
+        width: 38
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9178b4697fac8c040800000000000000
+      internalID: 4668204178496784153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tero02_19
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 64
+        width: 38
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a07da93efdaf440800000000000000
+      internalID: 4970531307405117953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tero02_20
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 0
+        width: 37
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9396933657fa70eb0800000000000000
+      internalID: -4753637962955527879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tero02_21
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 0
+        width: 38
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce9d445d1ae584b90800000000000000
+      internalID: -7257446750346749460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tero02_22
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 0
+        width: 36
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27f3d471985bf8e0800000000000000
+      internalID: -1658634656002345170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 588b88c053250c34e9f160d3c0ed4276
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
